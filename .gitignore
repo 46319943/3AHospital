@@ -1,3 +1,5 @@
 *.py
 setting.*
 *.log
+*.pyc
+__pycache__
